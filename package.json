@@ -1,0 +1,25 @@
+{
+
+  "name": "DiscordBot",
+
+  "description": "RandomBot",
+
+  "version": "1.0.0",
+
+  "main": "discordRandomBot.js",
+
+  "scripts": {
+
+    "start": "node discordRandomBot.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+    "request": "2.81.0",
+    "moment": "^2.25.3"
+
+  }
+
+}
